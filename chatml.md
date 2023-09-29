@@ -3,7 +3,7 @@
 
 (This document is a preview of the underlying format consumed by
 GPT models. As a developer, you can use our [higher-level
-API](https://platform.openai.com/docs/guides/chat) and won't need to
+API](https://platform.crystalcomputing.com/docs/guides/chat) and won't need to
 interact directly with this format today — but expect to have the
 option in the future!)
 
